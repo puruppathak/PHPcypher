@@ -5,9 +5,7 @@
 
 
 Name: Puru Pathak
-NETID: ppp280
 Citations: php.net
-Programming Assignment-1
 
 */
 
