@@ -1,4 +1,4 @@
-# PHPcypher
+# Design a cypher using PHP
 Design a cypher using PHP as per the given conditions
 
 The algorithm works by adding the number 13 to every letter and (with wrapping so that 'Z'+1='A') will result in a new letter.  Numbers are increased by 5 with wrapping so they remain just one digit. Other characters are left untouched.
